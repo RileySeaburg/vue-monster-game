@@ -1,1 +1,1 @@
-# vue-monster-game
+# Vue Monster Game
